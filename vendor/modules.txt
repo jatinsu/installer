@@ -1245,8 +1245,8 @@ github.com/munnerz/goautoneg
 # github.com/mxk/go-flowrate v0.0.0-20140419014527-cca7078d478f
 ## explicit
 github.com/mxk/go-flowrate/flowrate
-# github.com/nutanix-cloud-native/cluster-api-provider-nutanix v1.5.4-0.20250116153252-296a5347104c
-## explicit; go 1.22.1
+# github.com/nutanix-cloud-native/cluster-api-provider-nutanix v1.5.4
+## explicit; go 1.23.0
 github.com/nutanix-cloud-native/cluster-api-provider-nutanix/api/v1beta1
 # github.com/nutanix-cloud-native/prism-go-client v0.5.0
 ## explicit; go 1.21
@@ -1283,7 +1283,7 @@ github.com/opencontainers/image-spec/specs-go/v1
 # github.com/opencontainers/runtime-spec v1.2.0
 ## explicit
 github.com/opencontainers/runtime-spec/specs-go
-# github.com/openshift/api v0.0.0-20250725072657-92b1455121e1
+# github.com/openshift/api v0.0.0-20250730121250-4c1f9af7fc78
 ## explicit; go 1.24.0
 github.com/openshift/api/annotations
 github.com/openshift/api/config/v1
